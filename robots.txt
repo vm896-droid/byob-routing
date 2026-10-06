@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vm896-droid.github.io/byob-routing/sitemap.xml
